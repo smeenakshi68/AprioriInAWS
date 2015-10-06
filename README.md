@@ -31,7 +31,12 @@ h.	Credential.java
 i.	RunMain.java									
 j.	Apriori.java 								
 k.	FrequentSet.java								
-                                                                            
+
+/---Library files required...Download latest versions-----/
+
+a. commons-fileupload-1.3.1.jar
+b. commons-io-2.4.jar
+
 /-----------Software’s downloaded--------------/
 
 a.	Software downloads links
