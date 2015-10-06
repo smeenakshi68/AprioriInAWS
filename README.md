@@ -1,5 +1,5 @@
 # AprioriInAWS
-Apriori algorithm to generate association rules using JAVA with Amazon Elasic Map Reduce with Amazon S3
+In JAVA with Amazon Elasic Map Reduce and Amazon S3
 /-----------/
 l.	How to run the application.
 
@@ -42,5 +42,5 @@ iv.	https://eclipse.org/downloads/index.php
 
 /-----------Web Site URL-------------/
 
-4.	Web Site URL : http://associaltionsrules-env.elasticbeanstalk.com/ -----/.. Not working now....Account has been closed ../
+4.	Web Site URL : http://associaltionsrules-env.elasticbeanstalk.com/... Not working now...Account has been closed! ../
 
