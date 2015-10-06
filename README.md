@@ -1,0 +1,46 @@
+# AprioriInAWS
+Apriori algorithm to generate association rules using JAVA with Amazon Elasic Map Reduce with Amazon S3
+/-----------/
+l.	How to run the application.
+
+How to run:
+
+1.	Click this link you will get after deploying application on elasticBeanStalk
+  eg: http://associaltionsrules-env.elasticbeanstalk.com/
+2.	Enter the values for support and confidence
+3.	Browse dataset txt file (saved prior into your system from below provided dataset links):
+i.	http://archive.ics.uci.edu/ml/machine-learning-databases/car/car.data
+ii.	http://archive.ics.uci.edu/ml/machine-learning-databases/balloons/adult+stretch.data
+iii.	http://archive.ics.uci.edu/ml/machine-learning-databases/balloons/adult-stretch.data
+iv.	http://archive.ics.uci.edu/ml/machine-learning-databases/balloons/adult-stretch.data.
+v.	http://archive.ics.uci.edu/ml/machine-learning-databases/balloons/yellow-small.data
+vi.	http://archive.ics.uci.edu/ml/machine-learning-databases/bridges/bridges.data.version2
+vii.	http://archive.ics.uci.edu/ml/machine-learning databases/bridges/bridges.data.version1
+4.	Press the submit button and proceed with instruction come to page.
+
+/--------Application Source Code ------------------/
+
+a.	UploadServer.java
+b.	welcome.jsp									
+c.	waitingForReply
+d.	final.jsp
+e.	output.jsp
+f.	return.jsp
+g.	Expired.jsp
+h.	Credential.java
+i.	RunMain.java									
+j.	Apriori.java 								
+k.	FrequentSet.java								
+                                                                            
+/-----------Software’s downloaded--------------/
+
+a.	Software downloads links
+i.	http://aws.amazon.com/eclipse/
+ii.	https://aws.amazon.com/developertools/6752709412171743
+iii.	http://aws.amazon.com/s3/
+iv.	https://eclipse.org/downloads/index.php
+
+/-----------Web Site URL-------------/
+
+4.	Web Site URL : http://associaltionsrules-env.elasticbeanstalk.com/ -----/.. Not working now....Account has been closed ../
+
