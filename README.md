@@ -1,6 +1,6 @@
 # AprioriInAWS
 Screen shots Link : https://github.com/smeenakshi68/AprioriInAWS/issues/1
-In JAVA with Amazon Elasic Map Reduce and Amazon S3
+In JAVA with Amazon Elastic Map Reduce and Amazon S3
 /-----------/
 l.	How to run the application.
 
