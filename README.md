@@ -1,8 +1,8 @@
 # AprioriInAWS
-Screen shots Link : https://github.com/smeenakshi68/AprioriInAWS/issues/1
 In JAVA with Amazon Elastic Map Reduce and Amazon S3
+Screen shots Link : https://github.com/smeenakshi68/AprioriInAWS/issues/1
 
-How to run the application.
+/-------How to run the application.------------/
 1.	Click this link you will get after deploying application on elasticBeanStalk
   eg: http://associaltionsrules-env.elasticbeanstalk.com/
 2.	Enter the values for support and confidence
