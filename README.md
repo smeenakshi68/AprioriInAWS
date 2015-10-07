@@ -1,9 +1,8 @@
 # AprioriInAWS
+Screen shots Link : https://github.com/smeenakshi68/AprioriInAWS/issues/1
 In JAVA with Amazon Elasic Map Reduce and Amazon S3
 /-----------/
 l.	How to run the application.
-
-How to run:
 
 1.	Click this link you will get after deploying application on elasticBeanStalk
   eg: http://associaltionsrules-env.elasticbeanstalk.com/
@@ -11,11 +10,8 @@ How to run:
 3.	Browse dataset txt file (saved prior into your system from below provided dataset links):
 i.	http://archive.ics.uci.edu/ml/machine-learning-databases/car/car.data
 ii.	http://archive.ics.uci.edu/ml/machine-learning-databases/balloons/adult+stretch.data
-iii.	http://archive.ics.uci.edu/ml/machine-learning-databases/balloons/adult-stretch.data
-iv.	http://archive.ics.uci.edu/ml/machine-learning-databases/balloons/adult-stretch.data.
-v.	http://archive.ics.uci.edu/ml/machine-learning-databases/balloons/yellow-small.data
-vi.	http://archive.ics.uci.edu/ml/machine-learning-databases/bridges/bridges.data.version2
-vii.	http://archive.ics.uci.edu/ml/machine-learning databases/bridges/bridges.data.version1
+iii.	http://archive.ics.uci.edu/ml/machine-learning-databases/bridges/bridges.data.version2
+iv.	http://archive.ics.uci.edu/ml/machine-learning databases/bridges/bridges.data.version1
 4.	Press the submit button and proceed with instruction come to page.
 
 /--------Application Source Code ------------------/
