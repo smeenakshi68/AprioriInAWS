@@ -3,8 +3,7 @@
 Screen shots Link : https://github.com/smeenakshi68/AprioriInAWS/issues/1
 
 How to run the application :
-1.	Click this link you will get after deploying application on elasticBeanStalk
-     eg: http://associaltionsrules-env.elasticbeanstalk.com/
+1.	Click the link eg: http://associaltionsrules-env.elasticbeanstalk.com/
 2.	Enter the values for support and confidence
 3.	Browse dataset txt file (saved prior into your system from below provided dataset links):
     i.	http://archive.ics.uci.edu/ml/machine-learning-databases/car/car.data
