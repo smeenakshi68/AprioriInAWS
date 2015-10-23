@@ -41,5 +41,5 @@ iv.	https://eclipse.org/downloads/index.php
 
 Web Site URL :
 
-4.	Web Site URL : http://associaltionsrules-env.elasticbeanstalk.com/... Not working now...Account has been closed! ../
+4.	Web Site URL : http://associaltionsrules-env.elasticbeanstalk.com/... Not working now...Account has closed! ../
 
